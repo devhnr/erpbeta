@@ -1,0 +1,15 @@
+db : fivelaravel_sagarstore
+
+db_user 
+
+name :fivelaravel_sagarstore
+pass: sagarstore@123$%
+
+
+ftp detail
+
+host : ftp.fiveonline.live
+
+user : sagarstore@fiveonline.live
+
+pass : sagarstore@123$%
